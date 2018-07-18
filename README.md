@@ -1,4 +1,4 @@
-fastlane documentation
+fastlane flavors deploy documentation
 ================
 # Installation
 
@@ -13,22 +13,34 @@ Install _fastlane_ using
 [sudo] gem install fastlane -NV
 ```
 or alternatively using `brew cask install fastlane`
+# Configure
+Replace fastlane folder and 
 
+Modify file `Fastfile`
+```
+sign_apk(
+              alias: "<YOUR ALIAS KEY>",
+              storepass: "<STORE PASS>",
+              keystore_path: "<KEY PATH>",
+              tsa: "http://timestamp.comodoca.com/rfc316",
+              apk_path_signed: options[:apk_path_signed],
+              keypass: "<KEY PASS>",
+            )
+```
+Modify file `Fastfile`
+```
+json_key_file "<google-api-file-key-path>"
+```
 # Available Actions
 ## Android
 ### android deploy
 ```
 fastlane android deploy
 ```
-Deploy Automatizado
+jarsinger your flavor
 ### android sign_apk_lane
 ```
 fastlane android sign_apk_lane
-```
-
-### android sign_apk_lane_zw
-```
-fastlane android sign_apk_lane_zw
 ```
 
 ### android upload_production
