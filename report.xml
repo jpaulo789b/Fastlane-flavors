@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="000: default_platform" time="0.004859626">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="001: gradle" time="12.588942946">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="002: gradle" time="978.635205549">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="003: Switch to android sign_apk_lane lane" time="0.092697363">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="004: sign_apk" time="7.071534259">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="005: zipalign" time="0.437297394">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="006: Switch to android upload_production lane" time="0.000902095">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="007: supply" time="13.426400598">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="008: Switch to android sign_apk_lane lane" time="0.000740771">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="009: sign_apk" time="3.27108863">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="010: zipalign" time="0.282709057">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="011: Switch to android upload_production lane" time="0.000694277">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="012: supply" time="11.833728274">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="013: Switch to android sign_apk_lane lane" time="0.001173643">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="014: sign_apk" time="3.016220267">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="015: zipalign" time="0.27632997">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="016: Switch to android upload_production lane" time="0.000875311">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="017: supply" time="11.561813941">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="018: Switch to android sign_apk_lane lane" time="0.001192378">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="019: sign_apk" time="3.122776463">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="020: zipalign" time="0.359502199">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="021: Switch to android upload_production lane" time="0.000675689">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="022: supply" time="13.917510808">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="023: Switch to android sign_apk_lane lane" time="0.001193731">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="024: sign_apk" time="3.119094204">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="025: zipalign" time="0.287284306">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="026: Switch to android upload_production lane" time="0.000713544">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="027: supply" time="12.995432478">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="028: Switch to android sign_apk_lane lane" time="0.001016972">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="029: sign_apk" time="3.415467196">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="030: zipalign" time="0.488907877">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="031: Switch to android upload_production lane" time="0.000669977">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="032: supply" time="11.188236635">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="033: Switch to android sign_apk_lane lane" time="0.001169837">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="034: sign_apk" time="3.06014688">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="035: zipalign" time="0.481273722">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="036: Switch to android upload_production lane" time="0.000667301">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="037: supply" time="13.166368774">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="038: Switch to android sign_apk_lane lane" time="0.000981505">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="039: sign_apk" time="2.999960382">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="040: zipalign" time="0.271422538">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="041: Switch to android upload_production lane" time="0.000704251">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="042: supply" time="11.770119511">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="043: Switch to android sign_apk_lane lane" time="0.001164101">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="044: sign_apk" time="2.982784153">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="045: zipalign" time="0.573329932">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="046: Switch to android upload_production lane" time="0.000714778">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="047: supply" time="10.806196438">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="048: Switch to android sign_apk_lane lane" time="0.000952315">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="049: sign_apk" time="3.330448727">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="050: zipalign" time="0.850223831">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="051: Switch to android upload_production lane" time="0.000782161">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="052: supply" time="12.373599735">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="053: Switch to android sign_apk_lane lane" time="0.001208218">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="054: sign_apk" time="2.9855901">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="055: zipalign" time="1.190944758">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="056: Switch to android upload_production lane" time="0.000690087">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="057: supply" time="12.270801927">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="058: Switch to android sign_apk_lane lane" time="0.001204313">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="059: sign_apk" time="2.980024742">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="060: zipalign" time="0.41390775">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="061: Switch to android upload_production lane" time="0.000707123">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="062: supply" time="12.169287882">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="063: Switch to android sign_apk_lane lane" time="0.001182102">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="064: sign_apk" time="3.042125708">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="065: zipalign" time="0.372218055">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="066: Switch to android upload_production lane" time="0.000700858">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="067: supply" time="12.22590274">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="068: Switch to android sign_apk_lane lane" time="0.001169032">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="069: sign_apk" time="3.020991276">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="070: zipalign" time="0.358853804">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="071: Switch to android upload_production lane" time="0.000707993">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="072: supply" time="12.123255151">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="073: Switch to android sign_apk_lane lane" time="0.001006443">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="074: sign_apk" time="3.008576004">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="075: zipalign" time="1.734743812">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="076: Switch to android upload_production lane" time="0.00070129">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="077: supply" time="11.484435735">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="078: Switch to android sign_apk_lane lane" time="0.001163921">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="079: sign_apk" time="2.985116176">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="080: zipalign" time="1.12730223">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="081: Switch to android upload_production lane" time="0.000679711">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="082: supply" time="11.327037146">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="083: Switch to android sign_apk_lane lane" time="0.001168561">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="084: sign_apk" time="3.824200914">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="085: zipalign" time="0.293881913">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="086: Switch to android upload_production lane" time="0.000686815">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="087: supply" time="11.630186627">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="088: Switch to android sign_apk_lane lane" time="0.001198687">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="089: sign_apk" time="2.985611747">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="090: zipalign" time="0.939762114">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="091: Switch to android upload_production lane" time="0.001120877">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="092: supply" time="11.09517318">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="093: Switch to android sign_apk_lane_zw lane" time="0.001188777">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="094: sign_apk_zw" time="3.012245586">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="095: zipalign" time="0.547564519">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="096: Switch to android upload_production lane" time="0.000765017">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="097: supply" time="12.960703981">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="098: Switch to android sign_apk_lane lane" time="0.001194595">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="099: sign_apk" time="3.240074569">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="100: zipalign" time="1.391065694">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="101: Switch to android upload_production lane" time="0.000708095">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="102: supply" time="12.27918004">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="103: Switch to android sign_apk_lane lane" time="0.001206224">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="104: sign_apk" time="3.042353293">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="105: zipalign" time="1.138118445">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="106: Switch to android upload_production lane" time="0.000743385">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="107: supply" time="11.54533857">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="108: Switch to android sign_apk_lane lane" time="0.001238379">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="109: sign_apk" time="4.023080199">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="110: zipalign" time="0.345793453">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="111: Switch to android upload_production lane" time="0.000676302">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="112: supply" time="13.326971355">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
