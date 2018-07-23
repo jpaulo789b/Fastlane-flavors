@@ -27,7 +27,7 @@ sign_apk(
               keypass: "<KEY PASS>",
             )
 ```
-Modify file `Fastfile`
+Modify file `Appfile`
 ```
 json_key_file "<google-api-file-key-path>"
 ```
